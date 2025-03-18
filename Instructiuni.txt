@@ -1,0 +1,59 @@
+Instructiuni
+
+Structura de foldere este aratata de folderul cu numele Exemplu_structura_foldere.
+
+ In folderul Carti_text se vor afla cartile transformate in text.
+ In folderul Materiale_antrenament se afla fisierele care trebuie sa fie prezente (standard) cu aceleasi denumiri:
+	-
+	-
+	-
+	-
+
+In fiecare fisier se vor exercitiul urmat de cheie
+
+Delimitatorul dintre exercitiu si cheie este ****
+Delimitatorul dintre exercitii este ----
+
+Exemplu:
+
+
+Part 1
+
+For questions 1-18, read the three texts below and decide which answer (A, B, C or D) best fits
+each gap.
+
+Mark your answers on the separate answer sheet.
+
+Vancouver
+
+In the last ten years or so, hundreds of thousands of people from all over the world have
+(1) .... up residence in Vancouver, in western Canada. To relax in the evening, residents
+(2) .... down the city streets and, if you join them, you are likely to overhear a different language at
+almost every other step. People come to Vancouver for its mild climate, its wonderful setting
+between the ocean and the mountains, its clean and safe environment and its educational and job
+opportunities. And (3) .... some may grumble about the speed at which new buildings have (4) ....,
+there’s no doubt that the new arrivals and (5) .... tourism industry have helped fuel an urban
+renaissance. Locals once referred to Vancouver as ‘Terminal City’ because of the city’s role as a
+terminus or gateway to all other places. Though the name has fallen slightly out of (6) ....,
+Vancouver is more a gateway than ever.
+
+1 A_ taken B put C made D built
+
+2 A_ prowl Bs stumble C_ trudge D-stroll
+
+3 A conversely B_ nevertheless C muchas D_ evenso
+4 A sprung up B_ gathered up C piled up D moved up
+5 A progressing B_ blooming C flourishing D swelling
+6 A approval B_ favour C_ opinion D support
+
+****
+
+Part 1 (one mark for each correct answer)
+
+1A 2D 3C 4A 5 C 6B 7A 8
+10 B 11 C 12 D 13 A 14 A 15 B 16
+17 D 18 B
+
+----
+
+Part 1
