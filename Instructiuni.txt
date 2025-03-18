@@ -4,12 +4,12 @@ Structura de foldere este aratata de folderul cu numele Exemplu_structura_folder
 
  In folderul Carti_text se vor afla cartile transformate in text.
  In folderul Materiale_antrenament se afla fisierele care trebuie sa fie prezente (standard) cu aceleasi denumiri:
-	-
-	-
-	-
-	-
+	- Fisierul Part1-Reading.txt: 3x6 (cartile vechi) sau 1x8 (cartile noi)
+	- Fisierul Part2-UOE: 15 (cartile vechi) sau 8 (cartile noi) - gap text
+	- Fisierul Part3-UOE: word formation
+	- Fisierul Part4-UOE: rephrase
 
-In fiecare fisier se vor exercitiul urmat de cheie
+In fiecare fisier vor fi exercitii urmate de cheie
 
 Delimitatorul dintre exercitiu si cheie este ****
 Delimitatorul dintre exercitii este ----
