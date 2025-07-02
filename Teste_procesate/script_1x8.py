@@ -64,19 +64,22 @@ def parse_answers(answers_text):
             answers[int(pair[0])] = pair[1]
     return answers
 
-def fill_text(text, options, answers):
+# Pentru a nu da skip la (0) pui skip_zero=False in fill_text
+def fill_text(text, options, answers, skip_zero=True):
     def replacer(match):
         num = int(match.group(1))
+        # If skip_zero is True and num == 0, leave it as is
+        if skip_zero and num == 0:
+            return match.group(0)
         ans_letter = answers.get(num)
-        # Only fill if both answer and options exist for this gap
         if ans_letter and num in options and ans_letter in options[num]:
             return options[num][ans_letter]
         else:
-            # Leave the gap untouched
-            return match.group(0)
+            return match.group(0) # Leave the gap untouched if no answer/option
     pattern = re.compile(r'\((\d+)\)\s*\.+')
     filled = pattern.sub(replacer, text)
     return filled
+
 
 def process_file(input_path, output_path):
     with open(input_path, encoding='utf8') as f:
@@ -91,6 +94,8 @@ def process_file(input_path, output_path):
             continue
         options_map = parse_options(options)
         answers_map = parse_answers(answers)
+        #Aici poti pune inca un parametru skip_zero=False daca vrei sa nu dai skip la (0)
+        # de exemplu: filled = fill_text(text, options_map, answers_map, skip_zero=False)
         filled = fill_text(text, options_map, answers_map)
         filled_texts.append(filled.strip())
 
