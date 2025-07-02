@@ -1,61 +1,115 @@
-https://docs.google.com/document/d/1RYcT6G0mojEzyqqMcqr5G7zzh1Z5fLncBQCDSjt-XE8/edit?usp=sharing
-
 Instructiuni
-
-Structura de foldere este aratata de folderul cu numele Exemplu_structura_foldere.
-
- In folderul Carti_text se vor afla cartile transformate in text.
- In folderul Materiale_antrenament se afla fisierele care trebuie sa fie prezente (standard) cu aceleasi denumiri:
-	- Fisierul Part1-Reading.txt: 3x6 (cartile vechi) sau 1x8 (cartile noi)
-	- Fisierul Part2-UOE: 15 (cartile vechi) sau 8 (cartile noi) - gap text
-	- Fisierul Part3-UOE: word formation
-	- Fisierul Part4-UOE: rephrase
 
 In fiecare fisier vor fi exercitii urmate de cheie
 
-Delimitatorul dintre exercitiu si cheie este ****
-Delimitatorul dintre exercitii este ----
+Delimitatorul dintre teste este ----
+Delimitatorul dintre text si variante raspuns este ====
+Delimitatorul dintre text/variante raspuns si cheie este ****
 
-Exemplu:
+
+Exemplu 3x16:
 
 
-Part 1
-
-For questions 1-18, read the three texts below and decide which answer (A, B, C or D) best fits
-each gap.
-
-Mark your answers on the separate answer sheet.
+----
 
 Vancouver
-
 In the last ten years or so, hundreds of thousands of people from all over the world have
 (1) .... up residence in Vancouver, in western Canada. To relax in the evening, residents
 (2) .... down the city streets and, if you join them, you are likely to overhear a different language at
 almost every other step. People come to Vancouver for its mild climate, its wonderful setting
 between the ocean and the mountains, its clean and safe environment and its educational and job
-opportunities. And (3) .... some may grumble about the speed at which new buildings have (4) ....,
-there’s no doubt that the new arrivals and (5) .... tourism industry have helped fuel an urban
-renaissance. Locals once referred to Vancouver as ‘Terminal City’ because of the city’s role as a
-terminus or gateway to all other places. Though the name has fallen slightly out of (6) ....,
+opportunities. And (3) .... some may grumble about the speed at which new buildings have (4) .... ,
+there's no doubt that the new arrivals and (5) .... tourism industry have helped fuel an urban
+renaissance. Locals once referred to Vancouver as 'Terminal City' because of the city's role as
+a terminus or gateway to all other places. Though the name has fallen slightly out of (6) .... ,
 Vancouver is more a gateway than ever.
 
-1 A_ taken B put C made D built
+====
+1 A taken B put C made D built
+2 A prowl B stumble C trudge D stroll
+3 A conversely B nevertheless C much as D even so
+4 A sprung up B gathered up C piled up D moved up
+5 A progressing B blooming C flourishing D swelling
+6 A approval B favour C opinion D support
+====
 
-2 A_ prowl Bs stumble C_ trudge D-stroll
+Putting Pen to Paper
+Journalists like myself are usually poor letter-writers. I have heard it (7) .... that this is because of 
+the instinctive distaste we feel at writing something we are not going to be paid for, but I cannot 
+believe we have quite such mercenary characters. It is more probably that (8) .... in our work, we
+are always (9) .... to get the greatest possible effect, the essential spontaneity of a letter (10) .... 
+us. The real creative artist, who does not consciously work on the effect at all (though he may re-
+write a passage dozens of times), does not have this problem. I believe that it is in this inherent 
+grasp of the effect of his words that there (11) .... the only sure test of the real artist. When 
+Shakespeare wrote some of his famous lines he (12) .... never thought consciously that it was the 
+contrast between polysyllables that made them so effective, as well as showing him to be a great 
+writer.
 
-3 A conversely B_ nevertheless C muchas D_ evenso
-4 A sprung up B_ gathered up C piled up D moved up
-5 A progressing B_ blooming C flourishing D swelling
-6 A approval B_ favour C_ opinion D support
+====
+7 A said B told C remarked D presumed
+8 A since B for C like D once
+9 A striving B exerting C contending D tackling
+10 A misses B escapes C avoids D passes
+11 A goes B remains C lies D exists
+12 A inevitably B confidently C particularly D surely
+====
+
+Supermarket Opening
+The opening of a new supermarket used to be a bit of an event in Britain. You could always rely 
+on a soap star, a disc jockey or a minor member of the royal family to come down and cut the 
+ribbon. Now it seems that new branches are (13) .... up every day in many areas and so the poor
+old celebrity has become (14) ..... Why pay a famous person when any Tom, Dick or Harry will 
+open it for nothing? Last week, waiting pensioners didn't care who opened the new branch of 
+Superbuy, (15) .... they were at the front. According to one prospective customer who knew 
+someone who worked there, the first five men over the (16) .... would be getting a bottle of 
+aftershave, and the first five women, a bunch of flowers. This (17) .... of information quickly swept 
+(18) .... the crowd, instilling feelings of smug superiority among those at the front, and envy from 
+the latecomers.
+
+====
+13 A popping B leaping C jumping D nipping
+14 A superfluous B excessive C surplus D residual
+15 A despite B so long as C in case D regardless
+16 A entrance B doorway C threshold D barrier
+17 A clipping B strand C string D snippet
+18 A among B through C across D around
+====
 
 ****
-
 Part 1 (one mark for each correct answer)
-
-1A 2D 3C 4A 5 C 6B 7A 8
-10 B 11 C 12 D 13 A 14 A 15 B 16
+1 A 2 D 3 C 4 A 5 C 6 B 7 A 8 A 9 A
+10 B 11 C 12 D 13 A 14 A 15 B 16 C
 17 D 18 B
+****
+
+
+Exemplu 3x8:
+
 
 ----
 
-Part 1
+Survive as a driver
+Does the thought of having your driving licence taken (0) .... from you not bear (1) .... about? Now that there are more
+sophisticated (2) .... techniques being employed by the police to catch speeding motorists, the chances of you losing
+your licence have (3) .... increased. From time to time, all of us creep over the speed limit. If caught, we (4) .... the risk of
+a heavy fine, penalty points or, worst of all, losing our licence altogether. In this way, the authorities are able to take away
+your means of transport, freedom and money. Prosecuting speeding motorists is an unbeatable way of generating cash
+for the government, as the motorist is an easy (5) .... and a good source of income. He's easier to catch than a thief, is
+less troublesome when caught and can probably (6) .... with the money to pay a substantial fine. Fight back now. Send
+for your (7) .... copy of How to survive as a driver and shorten the (8) .... of getting caught in a speed trap. We'll show you how.
+
+==== 
+1 A considering B thinking C regarding D imagining
+2 A discovery B explosive C detection D revealing
+3 A mightily B heavily C gravely D significantly
+4 A face B deal C make D take
+5 A capture B victim C trap D target
+6 A carry out B come through C keep up D come up
+7 A provisional B pilot C trial D experimental
+8 A possibilities B odds C chances D probabilities
+==== 
+
+****
+Part 1 (one mark for each correct answer)
+1 B 2 C 3 D 4 A 5 D 6 D 7 C 8 B 
+****
